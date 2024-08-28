@@ -1,0 +1,7 @@
+name = "synadia-demo-backend"
+language = "tinygo"
+type = "actor"
+version = "0.1.0"
+
+[actor]
+claims = ["wasmcloud:httpserver"]
