@@ -1,3 +1,0 @@
-http = "https://github.com/wasmCloud/wasi-http/archive/main.tar.gz"
-io = "./overrides/io"
-poll = "https://github.com/WebAssembly/wasi-poll/archive/main.tar.gz"

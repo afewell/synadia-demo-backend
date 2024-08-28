@@ -1,5 +1,0 @@
-package wash-examples:echo
-
-world echo {
-    export wasi:http/incoming-handler
-}
